@@ -1,3 +1,3 @@
 # Visualization
 
-Open the project in Virtual Studio to run
+After installing Visual Studio double click `STM32Visualization.sln` to import this project and install all the necessary framwork
